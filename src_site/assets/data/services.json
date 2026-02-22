@@ -1,0 +1,38 @@
+[
+  {
+    "id": "boarding",
+    "name_zh": "家庭猫咪寄养",
+    "name_en": "Home Cat Boarding",
+    "duration": "24h",
+    "price_cad": "CAD 55-75 / 天",
+    "description_zh": "单猫或同家庭猫咪入住，提供独立休息区、玩耍与日常观察，并每日发送图文与视频。",
+    "description_en": "Safe in-home boarding with daily reports, photos, videos, and behavior updates."
+  },
+  {
+    "id": "drop-in",
+    "name_zh": "上门喂养与巡检",
+    "name_en": "Drop-In Home Visits",
+    "duration": "30-60 min",
+    "price_cad": "CAD 30-45 / 次",
+    "description_zh": "按计划上门喂食、换水、清理猫砂、互动陪伴，并记录饮食和排泄状态。",
+    "description_en": "In-home feeding, litter care, medication support, and mood/activity updates."
+  },
+  {
+    "id": "medical",
+    "name_zh": "药物与特殊照护支持",
+    "name_en": "Medication & Special Care",
+    "duration": "附加服务",
+    "price_cad": "CAD 8-20 / 天",
+    "description_zh": "口服药提醒、恢复期观察、老年猫细致照护。具体方案按猫咪情况评估。",
+    "description_en": "Medication reminders, senior cat care, and post-treatment observation plans."
+  },
+  {
+    "id": "pickup",
+    "name_zh": "接送协助（限区域）",
+    "name_en": "Pickup/Drop-off Assistance",
+    "duration": "单程",
+    "price_cad": "CAD 15-35",
+    "description_zh": "支持 Downtown Vancouver、Burnaby、Richmond 部分区域，视排班确认。",
+    "description_en": "Limited-area transport support in Downtown Vancouver, Burnaby, and Richmond."
+  }
+]

@@ -1,0 +1,6 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" fill="#F9EFDF"/>
+  <rect x="42" y="42" width="556" height="336" rx="22" fill="#FFF8ED" stroke="#D7CAB8" stroke-width="6"/>
+  <circle cx="326" cy="211" r="90" fill="#D76841"/>
+  <text x="179" y="332" fill="#6B584B" font-family="Manrope, sans-serif" font-size="25">Sunlight Nap Spot</text>
+</svg>

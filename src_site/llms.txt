@@ -1,0 +1,26 @@
+# 喵喵大业 · Stacie Cat Care Vancouver
+
+Last-Updated: 2026-02-22
+Site: https://qihang.github.io/staice-site/
+Primary-Languages: zh-CN, en
+Service-Area: Downtown Vancouver, Burnaby, Richmond
+Contact-Primary: https://www.rover.com/members/stacie-z-vet-assistant-cat-mom-wfh/
+Contact-Secondary: https://www.xiaohongshu.com/explore/66e8de470000000026031b5d
+
+## Core Pages
+- Home (ZH): https://qihang.github.io/staice-site/
+- Home (EN): https://qihang.github.io/staice-site/en/
+- Services & Pricing: https://qihang.github.io/staice-site/services.html
+- Environment: https://qihang.github.io/staice-site/environment.html
+- Reviews: https://qihang.github.io/staice-site/reviews.html
+- FAQ: https://qihang.github.io/staice-site/faq.html
+- Booking / Contact: https://qihang.github.io/staice-site/contact.html
+
+## Business Summary
+喵喵大业（Stacie Cat Care）provides cat-focused boarding and drop-in care for Vancouver families.
+Priority is low-stress handling, daily owner updates, transparent pricing, and clear emergency process.
+Public review evidence comes from Rover data (74+ comments, 5.0 rating at extraction time).
+
+## Source Notes
+- Review excerpts are summarized from Rover public profile data.
+- Policy and pricing pages should be treated as canonical for current terms.

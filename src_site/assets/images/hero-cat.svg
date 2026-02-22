@@ -1,0 +1,20 @@
+<svg width="1200" height="820" viewBox="0 0 1200 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="820" fill="#F4EADB"/>
+  <circle cx="1020" cy="120" r="220" fill="#F8CF8C" fill-opacity="0.55"/>
+  <circle cx="180" cy="780" r="310" fill="#D7E9E1" fill-opacity="0.82"/>
+  <rect x="120" y="200" width="960" height="500" rx="42" fill="#FFF9EF" stroke="#DCCCB4" stroke-width="6"/>
+  <path d="M470 480C470 403.216 532.216 341 609 341C685.784 341 748 403.216 748 480V515C748 591.784 685.784 654 609 654C532.216 654 470 591.784 470 515V480Z" fill="#D86C43"/>
+  <path d="M520 366L563 275L595 361" stroke="#D86C43" stroke-width="20" stroke-linecap="round"/>
+  <path d="M696 364L649 276L623 361" stroke="#D86C43" stroke-width="20" stroke-linecap="round"/>
+  <ellipse cx="609" cy="522" rx="56" ry="44" fill="#FBE7D3"/>
+  <circle cx="582" cy="477" r="10" fill="#472F27"/>
+  <circle cx="636" cy="477" r="10" fill="#472F27"/>
+  <path d="M609 489L598 506H620L609 489Z" fill="#9A5440"/>
+  <path d="M606 515C606 524.389 599.389 532 590 532" stroke="#553A30" stroke-width="5" stroke-linecap="round"/>
+  <path d="M612 515C612 524.389 618.611 532 628 532" stroke="#553A30" stroke-width="5" stroke-linecap="round"/>
+  <path d="M456 513H336" stroke="#5E4B42" stroke-width="6" stroke-linecap="round"/>
+  <path d="M458 548H344" stroke="#5E4B42" stroke-width="6" stroke-linecap="round"/>
+  <path d="M764 513H882" stroke="#5E4B42" stroke-width="6" stroke-linecap="round"/>
+  <path d="M760 548H872" stroke="#5E4B42" stroke-width="6" stroke-linecap="round"/>
+  <text x="147" y="270" fill="#6F6156" font-family="Manrope, sans-serif" font-size="32">Cat-friendly Home Boarding</text>
+</svg>

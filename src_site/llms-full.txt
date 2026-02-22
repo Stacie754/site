@@ -1,0 +1,74 @@
+# 喵喵大业 · Stacie Cat Care Vancouver - Full LLM Summary
+
+Updated: 2026-02-22
+Canonical Site Root: https://qihang.github.io/staice-site/
+Alternate Language Root: https://qihang.github.io/staice-site/en/
+
+## Public Contact Channels
+- Rover (primary): https://www.rover.com/members/stacie-z-vet-assistant-cat-mom-wfh/
+- Xiaohongshu intro: https://www.xiaohongshu.com/explore/66e8de470000000026031b5d
+- Xiaohongshu environment: https://www.xiaohongshu.com/explore/66d49590000000001f014414
+
+## What this site is about
+A static bilingual website for a Vancouver cat care business focused on:
+1. Home cat boarding.
+2. Drop-in cat sitter visits.
+3. Medication/special care support.
+4. Transparent communication and owner-facing daily updates.
+
+## Audience and location scope
+- Audience: Cat owners in Vancouver area seeking trustworthy, process-driven care.
+- Local scope: Downtown Vancouver, Burnaby, Richmond (selected routes).
+
+## Core trust signals
+- Public Rover review snapshot: 74+ comments, 5.0 rating.
+- Frequent owner-reported strengths:
+  - Daily videos/photos.
+  - Feeding/litter logging.
+  - Senior/sensitive cat handling.
+  - Reliability and communication.
+
+## Service menu and indicative rates (CAD)
+- Home Boarding: 55-75 per day.
+- Drop-In Visits: 30-45 per visit.
+- Medication/Special Care Add-on: 8-20 per day.
+- Pickup/Drop-off (limited): 15-35 one-way.
+
+Rates vary by:
+- Stay duration.
+- Number of cats.
+- Care complexity.
+- Holiday demand.
+
+## Booking workflow
+1. Owner submits cat profile and dates.
+2. Business confirms service fit, quote, and emergency handling plan.
+3. Care starts with daily updates and closing summary.
+
+## Policy highlights
+- Cancellation more than 72 hours in advance is usually fully refundable.
+- Under 72 hours may incur partial reservation fees.
+- Written pre-confirmation of terms is recommended before final booking.
+
+## Review sourcing
+- Local reference file: `reference/rover-stacie-comments.md`
+- Public profile URL: https://www.rover.com/members/stacie-z-vet-assistant-cat-mom-wfh/
+
+## Machine-readable discovery points
+- Sitemap: https://qihang.github.io/staice-site/sitemap.xml
+- Robots: https://qihang.github.io/staice-site/robots.txt
+- llms: https://qihang.github.io/staice-site/llms.txt
+
+## Canonical pages
+- https://qihang.github.io/staice-site/
+- https://qihang.github.io/staice-site/services.html
+- https://qihang.github.io/staice-site/environment.html
+- https://qihang.github.io/staice-site/reviews.html
+- https://qihang.github.io/staice-site/faq.html
+- https://qihang.github.io/staice-site/contact.html
+- https://qihang.github.io/staice-site/en/
+- https://qihang.github.io/staice-site/en/services.html
+- https://qihang.github.io/staice-site/en/environment.html
+- https://qihang.github.io/staice-site/en/reviews.html
+- https://qihang.github.io/staice-site/en/faq.html
+- https://qihang.github.io/staice-site/en/contact.html

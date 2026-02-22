@@ -1,0 +1,74 @@
+[
+  {
+    "q_zh": "需要提前多久预约？",
+    "a_zh": "建议提前 7-14 天预约，节假日建议提前 3-4 周。若是临时需求也可留言，我们会尽量协调。",
+    "q_en": "How early should I book?",
+    "a_en": "We recommend 7-14 days in advance, and 3-4 weeks for holidays. Last-minute requests are still welcome."
+  },
+  {
+    "q_zh": "首次寄养前可以试住吗？",
+    "a_zh": "可以。首次建议先做短时试住或视频沟通，帮助猫咪和家长都更安心。",
+    "q_en": "Can we do a trial stay?",
+    "a_en": "Yes. We encourage a short trial stay or pre-boarding call for first-time guests."
+  },
+  {
+    "q_zh": "每天会更新几次？",
+    "a_zh": "默认每天至少 1 次完整更新（照片/视频 + 饮食排泄记录），有异常会即时联系。",
+    "q_en": "How often do you send updates?",
+    "a_en": "At least one detailed update daily with photos/videos and care logs."
+  },
+  {
+    "q_zh": "可以喂药吗？",
+    "a_zh": "支持常规口服药及简单护理；注射类或高风险医疗请提前说明并评估可行性。",
+    "q_en": "Do you provide medication support?",
+    "a_en": "Yes for routine oral meds and basic care. Advanced medical cases require prior assessment."
+  },
+  {
+    "q_zh": "猫咪会和其他猫混养吗？",
+    "a_zh": "会根据猫咪性格与家庭来源安排，优先保证安全与压力管理，必要时分区照护。",
+    "q_en": "Will my cat be mixed with other cats?",
+    "a_en": "Only when temperament and safety allow. Separate zones are used when needed."
+  },
+  {
+    "q_zh": "如何处理应急情况？",
+    "a_zh": "发现异常会第一时间联系家长，并按预先确认的医院与授权流程处理。",
+    "q_en": "How do you handle emergencies?",
+    "a_en": "We contact owners immediately and follow the pre-approved clinic/authorization plan."
+  },
+  {
+    "q_zh": "是否提供接送？",
+    "a_zh": "提供有限区域接送协助，具体时间和费用按当日交通与排班确认。",
+    "q_en": "Do you offer pickup/drop-off?",
+    "a_en": "Yes in selected areas, subject to schedule and route availability."
+  },
+  {
+    "q_zh": "取消或改期规则是什么？",
+    "a_zh": "入住前 72 小时外取消通常可全额退；72 小时内按预留时间收取部分费用。",
+    "q_en": "What is your cancellation policy?",
+    "a_en": "Full refund is usually available before 72 hours. Within 72 hours, partial fees may apply."
+  },
+  {
+    "q_zh": "需要自带哪些物品？",
+    "a_zh": "建议携带主粮、零食、常用药、熟悉玩具/毯子；我们提供豆腐猫砂和猫砂盆，基础餐具可按需提供；如猫咪习惯木头猫砂请自带。",
+    "q_en": "What should I bring for boarding?",
+    "a_en": "Please bring food, treats, meds, and familiar comfort items. We provide tofu litter and a litter box, plus basic bowls if needed. If your cat only uses wood litter, please bring your own."
+  },
+  {
+    "q_zh": "服务区域有哪些？",
+    "a_zh": "以 Downtown Vancouver 为核心，覆盖 Burnaby、Richmond 部分区域。",
+    "q_en": "What service areas do you cover?",
+    "a_en": "Primary area is Downtown Vancouver, with parts of Burnaby and Richmond."
+  },
+  {
+    "q_zh": "多猫家庭有优惠吗？",
+    "a_zh": "同家庭多猫可按时长与照护复杂度提供组合报价。",
+    "q_en": "Do you offer multi-cat rates?",
+    "a_en": "Yes, bundled rates are available depending on stay length and care complexity."
+  },
+  {
+    "q_zh": "多久能回复咨询？",
+    "a_zh": "工作时段通常 1-3 小时内回复；夜间留言会在次日尽快回复。",
+    "q_en": "How fast do you reply?",
+    "a_en": "Usually within 1-3 hours during service hours, and next morning for late messages."
+  }
+]

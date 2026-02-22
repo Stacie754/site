@@ -1,0 +1,9 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" fill="#F8F2E7"/>
+  <rect x="40" y="40" width="560" height="340" rx="22" fill="#FFF8EF" stroke="#D7C8B7" stroke-width="6"/>
+  <circle cx="210" cy="168" r="40" fill="#D66741"/>
+  <circle cx="318" cy="168" r="40" fill="#D66741"/>
+  <circle cx="426" cy="168" r="40" fill="#D66741"/>
+  <rect x="156" y="246" width="312" height="72" rx="18" fill="#DDEEE6"/>
+  <text x="173" y="294" fill="#44675D" font-family="Manrope, sans-serif" font-size="26">Disinfection & Safety Checks</text>
+</svg>

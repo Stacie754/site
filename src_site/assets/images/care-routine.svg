@@ -1,0 +1,11 @@
+<svg width="900" height="680" viewBox="0 0 900 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="680" fill="#F8F1E5"/>
+  <rect x="90" y="86" width="720" height="508" rx="24" fill="#FFF8ED" stroke="#D6C9B8" stroke-width="6"/>
+  <line x1="230" y1="176" x2="230" y2="520" stroke="#D5653E" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="230" cy="212" r="22" fill="#D5653E"/>
+  <circle cx="230" cy="320" r="22" fill="#D5653E"/>
+  <circle cx="230" cy="428" r="22" fill="#D5653E"/>
+  <text x="282" y="220" fill="#523A30" font-family="Manrope, sans-serif" font-size="26">Morning check + feeding</text>
+  <text x="282" y="328" fill="#523A30" font-family="Manrope, sans-serif" font-size="26">Play, grooming, litter log</text>
+  <text x="282" y="436" fill="#523A30" font-family="Manrope, sans-serif" font-size="26">Evening summary + update</text>
+</svg>

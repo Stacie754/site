@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qihang.github.io/staice-site/sitemap.xml
