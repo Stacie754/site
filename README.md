@@ -1,1 +1,3 @@
 # staice-site
+
+test-reinitialize
