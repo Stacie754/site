@@ -10,6 +10,7 @@
   --accent-dark: #b44f2e;
   --accent-soft: #f6ddcb;
   --sage: #2f6f62;
+  --sage-dark: #25584c;
   --sage-soft: #dbece6;
   --line: #e8dcc9;
   --sun: #f2c15f;
@@ -124,7 +125,7 @@ img {
   gap: 0.3rem;
 }
 
-.nav-links a {
+.nav-links a:not(.btn) {
   text-decoration: none;
   font-size: 0.9rem;
   color: var(--muted);
@@ -133,8 +134,8 @@ img {
   transition: background 0.2s ease, color 0.2s ease;
 }
 
-.nav-links a:hover,
-.nav-links a.active {
+.nav-links a:not(.btn):hover,
+.nav-links a:not(.btn).active {
   background: var(--paper);
   color: var(--ink);
 }
@@ -164,13 +165,24 @@ img {
 }
 
 .btn-primary {
-  background: var(--accent);
+  background: var(--sage);
   color: #fff;
-  box-shadow: 0 10px 24px rgba(212, 102, 62, 0.28);
+  box-shadow: 0 10px 24px rgba(47, 111, 98, 0.28);
 }
 
 .btn-primary:hover {
-  background: var(--accent-dark);
+  background: var(--sage-dark);
+}
+
+/* Make the header "book now / 立即咨询" CTA brighter than other primary buttons. */
+.nav-links .btn.btn-primary.btn-sm {
+  background: var(--sun);
+  color: var(--ink);
+  box-shadow: 0 10px 24px rgba(242, 193, 95, 0.35);
+}
+
+.nav-links .btn.btn-primary.btn-sm:hover {
+  background: #e7b14b;
 }
 
 .btn-secondary {
@@ -666,7 +678,7 @@ textarea {
     display: flex;
   }
 
-  .nav-links a {
+  .nav-links a:not(.btn) {
     width: 100%;
     border-radius: 10px;
     padding: 0.5rem 0.65rem;
